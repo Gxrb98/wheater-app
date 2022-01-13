@@ -1,0 +1,41 @@
+{
+  "name": "wheater-app",
+  "version": "1.0.0",
+  "description": "An app where you can check the wheater of the present week whenever you want",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gxrb98/wheater-app.git"
+  },
+  "author": "gxrb98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gxrb98/wheater-app/issues"
+  },
+  "homepage": "https://github.com/Gxrb98/wheater-app#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
